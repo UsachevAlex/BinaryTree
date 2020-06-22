@@ -1,0 +1,20 @@
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.exe.config
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.exe
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.pdb
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.Form1.resources
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.Properties.Resources.resources
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csproj.GenerateResource.cache
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csproj.CoreCompileInputs.cache
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.exe
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.pdb
+C:\Users\VNA.17\Desktop\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csprojAssemblyReference.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.exe.config
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\bin\Debug\TaskKonkordas.pdb
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csprojAssemblyReference.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.Form1.resources
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.Properties.Resources.resources
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csproj.GenerateResource.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.csproj.CoreCompileInputs.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\TaskKonkordas\obj\Debug\TaskKonkordas.pdb

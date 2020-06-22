@@ -1,0 +1,27 @@
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\VNA.17\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\alsha\OneDrive\Workspace\Visual Studio\Projects\C#\САОД\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\111\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\111\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\111\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\111\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
